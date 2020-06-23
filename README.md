@@ -42,7 +42,6 @@ Instrucciones:
       "bono":10000,
       "sueldo_completo":null,
       "equipo":"azul"
-
    },
    {  
       "nombre":"El Rulo",
@@ -52,6 +51,5 @@ Instrucciones:
       "bono":15000,
       "sueldo_completo":null,
       "equipo":"rojo"
-
    }
 ]
